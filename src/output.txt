@@ -1,0 +1,113 @@
+------------- GENETIC ALGORITHM SOLUTION ----------------
+
+Solution to target: [0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+
+Average Fitness Level of Generated Population: 5.03
+
+Number Of Generations: 897
+
+Member with Solution: [0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+
+Execution Time: 946ms
+
+Members of Population: 
+Member 1: [0, 0, 0, 1, 0, 1, 1, 1, 0, 0] Fitness Level: 6.0
+Member 2: [1, 1, 0, 1, 1, 1, 1, 1, 1, 1] Fitness Level: 3.0
+Member 3: [0, 0, 1, 0, 0, 0, 0, 0, 0, 1] Fitness Level: 6.0
+Member 4: [1, 1, 0, 0, 1, 1, 1, 0, 1, 1] Fitness Level: 3.0
+Member 5: [1, 0, 0, 1, 1, 1, 0, 1, 0, 0] Fitness Level: 5.0
+Member 6: [0, 0, 1, 1, 1, 0, 1, 0, 0, 0] Fitness Level: 4.0
+Member 7: [1, 1, 1, 0, 0, 1, 1, 1, 0, 1] Fitness Level: 3.0
+Member 8: [1, 1, 0, 1, 0, 0, 1, 0, 1, 1] Fitness Level: 4.0
+Member 9: [1, 0, 0, 1, 0, 1, 0, 1, 1, 1] Fitness Level: 6.0
+Member 10: [1, 0, 0, 1, 0, 0, 1, 0, 1, 0] Fitness Level: 6.0
+Member 11: [0, 1, 0, 0, 1, 1, 1, 1, 0, 0] Fitness Level: 5.0
+Member 12: [0, 1, 1, 0, 1, 1, 1, 1, 1, 1] Fitness Level: 4.0
+Member 13: [0, 1, 0, 0, 0, 0, 0, 0, 0, 1] Fitness Level: 6.0
+Member 14: [1, 1, 0, 1, 0, 1, 0, 0, 0, 0] Fitness Level: 4.0
+Member 15: [0, 0, 0, 1, 0, 1, 1, 1, 0, 1] Fitness Level: 5.0
+Member 16: [1, 0, 0, 0, 1, 0, 1, 0, 0, 0] Fitness Level: 5.0
+Member 17: [1, 1, 1, 1, 0, 0, 1, 0, 0, 1] Fitness Level: 2.0
+Member 18: [0, 1, 0, 0, 1, 1, 0, 0, 0, 1] Fitness Level: 4.0
+Member 19: [0, 1, 0, 0, 0, 1, 1, 0, 1, 0] Fitness Level: 6.0
+Member 20: [1, 1, 1, 0, 1, 0, 1, 0, 1, 1] Fitness Level: 3.0
+Member 21: [1, 1, 1, 1, 1, 1, 0, 1, 1, 1] Fitness Level: 3.0
+Member 22: [1, 0, 0, 0, 0, 1, 0, 1, 0, 1] Fitness Level: 6.0
+Member 23: [1, 1, 0, 0, 0, 1, 0, 0, 1, 0] Fitness Level: 6.0
+Member 24: [0, 0, 0, 1, 1, 1, 1, 0, 1, 0] Fitness Level: 5.0
+Member 25: [1, 1, 0, 0, 1, 1, 1, 1, 1, 0] Fitness Level: 5.0
+Member 26: [1, 1, 0, 1, 0, 1, 0, 1, 0, 0] Fitness Level: 5.0
+Member 27: [0, 0, 0, 1, 0, 0, 0, 1, 0, 1] Fitness Level: 7.0
+Member 28: [1, 0, 0, 0, 1, 0, 0, 1, 0, 0] Fitness Level: 7.0
+Member 29: [0, 0, 1, 1, 1, 1, 0, 0, 0, 0] Fitness Level: 4.0
+Member 30: [1, 0, 1, 0, 0, 1, 1, 0, 0, 1] Fitness Level: 3.0
+Member 31: [1, 0, 1, 1, 0, 0, 1, 1, 0, 1] Fitness Level: 4.0
+Member 32: [0, 0, 0, 1, 0, 1, 0, 1, 1, 1] Fitness Level: 7.0
+Member 33: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1] Fitness Level: 3.0
+Member 34: [1, 1, 0, 1, 1, 0, 0, 0, 0, 0] Fitness Level: 4.0
+Member 35: [1, 0, 0, 0, 1, 0, 1, 0, 1, 1] Fitness Level: 5.0
+Member 36: [1, 0, 0, 1, 1, 1, 1, 1, 0, 0] Fitness Level: 4.0
+Member 37: [1, 0, 0, 0, 1, 1, 0, 1, 0, 0] Fitness Level: 6.0
+Member 38: [0, 0, 1, 1, 1, 0, 0, 0, 1, 0] Fitness Level: 6.0
+Member 39: [0, 0, 0, 0, 1, 1, 0, 1, 1, 1] Fitness Level: 7.0
+Member 40: [1, 0, 0, 0, 1, 1, 1, 1, 0, 0] Fitness Level: 5.0
+Member 41: [0, 1, 1, 0, 1, 0, 1, 1, 0, 1] Fitness Level: 4.0
+Member 42: [1, 0, 0, 1, 0, 1, 1, 0, 0, 1] Fitness Level: 3.0
+Member 43: [1, 0, 1, 0, 1, 0, 1, 1, 0, 0] Fitness Level: 5.0
+Member 44: [1, 0, 1, 1, 1, 0, 0, 1, 0, 0] Fitness Level: 5.0
+Member 45: [0, 0, 1, 0, 1, 0, 1, 0, 0, 1] Fitness Level: 4.0
+Member 46: [1, 1, 1, 0, 1, 1, 0, 0, 0, 1] Fitness Level: 2.0
+Member 47: [0, 0, 0, 0, 0, 0, 0, 1, 1, 0] Fitness Level: 10.0
+Member 48: [0, 1, 1, 1, 0, 0, 1, 1, 1, 0] Fitness Level: 6.0
+Member 49: [1, 1, 0, 0, 1, 1, 0, 1, 1, 1] Fitness Level: 5.0
+Member 50: [1, 1, 1, 0, 0, 1, 0, 0, 0, 0] Fitness Level: 4.0
+Member 51: [0, 0, 1, 0, 0, 1, 1, 0, 0, 0] Fitness Level: 5.0
+Member 52: [0, 0, 1, 1, 0, 0, 1, 1, 1, 1] Fitness Level: 6.0
+Member 53: [0, 1, 0, 0, 1, 0, 1, 0, 1, 1] Fitness Level: 5.0
+Member 54: [1, 1, 0, 1, 0, 0, 1, 1, 1, 0] Fitness Level: 6.0
+Member 55: [0, 1, 0, 1, 0, 1, 0, 0, 1, 1] Fitness Level: 5.0
+Member 56: [1, 1, 1, 0, 1, 1, 1, 1, 0, 0] Fitness Level: 3.0
+Member 57: [0, 0, 1, 0, 1, 1, 1, 0, 1, 1] Fitness Level: 4.0
+Member 58: [0, 0, 1, 1, 1, 0, 1, 0, 1, 0] Fitness Level: 5.0
+Member 59: [0, 0, 1, 0, 1, 0, 0, 0, 1, 0] Fitness Level: 7.0
+Member 60: [1, 1, 0, 1, 0, 0, 1, 1, 0, 1] Fitness Level: 4.0
+Member 61: [1, 0, 0, 1, 1, 0, 1, 1, 0, 0] Fitness Level: 5.0
+Member 62: [1, 1, 1, 0, 0, 1, 1, 1, 1, 1] Fitness Level: 4.0
+Member 63: [0, 1, 1, 1, 1, 0, 0, 0, 0, 0] Fitness Level: 4.0
+Member 64: [0, 0, 1, 1, 1, 1, 1, 1, 0, 0] Fitness Level: 4.0
+Member 65: [0, 1, 1, 0, 0, 1, 0, 0, 1, 1] Fitness Level: 5.0
+Member 66: [0, 0, 1, 1, 1, 1, 0, 0, 1, 1] Fitness Level: 4.0
+Member 67: [1, 0, 1, 1, 1, 0, 0, 1, 0, 1] Fitness Level: 4.0
+Member 68: [0, 1, 1, 0, 1, 1, 0, 1, 1, 1] Fitness Level: 5.0
+Member 69: [0, 0, 1, 1, 1, 0, 0, 0, 1, 1] Fitness Level: 5.0
+Member 70: [0, 0, 1, 0, 1, 1, 1, 0, 0, 1] Fitness Level: 3.0
+Member 71: [1, 1, 0, 1, 1, 1, 0, 0, 1, 1] Fitness Level: 3.0
+Member 72: [1, 1, 1, 1, 1, 0, 1, 1, 1, 1] Fitness Level: 3.0
+Member 73: [1, 0, 1, 0, 1, 0, 0, 1, 1, 1] Fitness Level: 6.0
+Member 74: [1, 1, 1, 1, 0, 0, 0, 0, 0, 0] Fitness Level: 4.0
+Member 75: [0, 0, 1, 0, 0, 1, 0, 1, 0, 0] Fitness Level: 7.0
+Member 76: [0, 0, 1, 0, 1, 1, 1, 0, 0, 0] Fitness Level: 4.0
+Member 77: [1, 0, 0, 0, 1, 1, 0, 1, 1, 1] Fitness Level: 6.0
+Member 78: [1, 1, 0, 0, 1, 0, 0, 0, 0, 1] Fitness Level: 4.0
+Member 79: [0, 0, 1, 1, 0, 0, 0, 0, 1, 1] Fitness Level: 6.0
+Member 80: [0, 0, 1, 0, 1, 1, 0, 0, 0, 1] Fitness Level: 4.0
+Member 81: [0, 1, 1, 0, 1, 0, 0, 0, 1, 0] Fitness Level: 6.0
+Member 82: [0, 0, 1, 0, 1, 1, 0, 1, 1, 1] Fitness Level: 6.0
+Member 83: [1, 1, 0, 0, 1, 1, 0, 0, 1, 0] Fitness Level: 5.0
+Member 84: [0, 1, 1, 1, 1, 1, 0, 1, 0, 1] Fitness Level: 3.0
+Member 85: [0, 1, 1, 0, 0, 0, 1, 1, 1, 1] Fitness Level: 6.0
+Member 86: [1, 0, 0, 0, 1, 1, 0, 1, 0, 0] Fitness Level: 6.0
+Member 87: [0, 0, 0, 1, 1, 1, 1, 0, 1, 0] Fitness Level: 5.0
+Member 88: [1, 0, 0, 1, 1, 1, 1, 0, 0, 0] Fitness Level: 3.0
+Member 89: [1, 1, 0, 1, 1, 1, 0, 1, 1, 0] Fitness Level: 5.0
+Member 90: [0, 1, 0, 0, 0, 1, 0, 0, 1, 1] Fitness Level: 6.0
+Member 91: [1, 0, 1, 0, 1, 1, 1, 0, 1, 0] Fitness Level: 4.0
+Member 92: [1, 0, 1, 1, 1, 0, 0, 1, 0, 1] Fitness Level: 4.0
+Member 93: [0, 1, 0, 0, 1, 0, 0, 0, 1, 1] Fitness Level: 6.0
+Member 94: [1, 0, 1, 0, 0, 1, 1, 0, 1, 1] Fitness Level: 4.0
+Member 95: [1, 1, 0, 0, 1, 1, 0, 0, 0, 1] Fitness Level: 3.0
+Member 96: [0, 0, 0, 0, 0, 1, 1, 0, 0, 1] Fitness Level: 5.0
+Member 97: [1, 0, 0, 1, 1, 1, 0, 1, 0, 1] Fitness Level: 4.0
+Member 98: [1, 0, 1, 1, 0, 1, 1, 0, 1, 1] Fitness Level: 3.0
+Member 99: [1, 1, 1, 0, 1, 1, 1, 1, 0, 0] Fitness Level: 3.0
+Member 100: [1, 0, 0, 1, 0, 0, 1, 0, 0, 1] Fitness Level: 4.0
